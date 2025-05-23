@@ -14,8 +14,8 @@ To write a python program to sort the first half of the list using merge sort.
 ```
 
 Program to implement Merge Sort
-Developed by: VAISHALI BALAMURUGAN 
-Register Number: 212222230164
+Developed by: S.SHANMATHI 
+Register Number: 212222100049
 def Merge_Sort(List):
     if len(List) > 1:
         mid = len(List)//2
