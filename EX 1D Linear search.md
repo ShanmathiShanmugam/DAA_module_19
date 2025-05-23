@@ -13,8 +13,8 @@ To write a python program for a search function with parameter list name and the
 7. If the loop completes without finding a match, print that the tuple is not found.   
 
 ## Program:
-```python
-Program to implement a search function with parameter list name and the value to be searched using string values.
+```
+
 Developed by: S.SHANMATHI
 Register Number:212222100049
 def search(List,n):
