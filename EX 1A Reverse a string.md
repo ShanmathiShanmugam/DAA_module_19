@@ -20,7 +20,7 @@ To write a program to create a recursive function to reverse a string.
 
 Program to implement Reverse a String
 Developed by: S.SHANMATHI
-Register Number: 212222230164
+Register Number: 212222100049
 def reverse_string(s):
     if len(s) == 0:  
         return s
