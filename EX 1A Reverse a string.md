@@ -19,7 +19,7 @@ To write a program to create a recursive function to reverse a string.
 ```
 
 Program to implement Reverse a String
-Developed by: VAISHALI BALAMURUGAN
+Developed by: S.SHANMATHI
 Register Number: 212222230164
 def reverse_string(s):
     if len(s) == 0:  
